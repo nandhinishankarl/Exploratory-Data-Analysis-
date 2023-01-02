@@ -2,18 +2,13 @@
 Exploratory Data Analysis projects I have worked on 
 
 1. The Effect of Handwashing: A lot of people did not wash their hands prior to the 19th century. Poor hygiene due to lack of hand washing caused 
-
 a lot of deaths, even doctors didn't engage in handwashing before surgeries (gross). 
 
 This is why a lot of patients died. During the mid 1800s, Dr. Ignaz Semmelweis wanted to explore the reason behind these deaths. 
 
 So he collected data from 2 clinics in Vienna, he wanted to investigate the deaths of women who gave birth in particular.
 
-He decided to look further into this and came to the conclusion that there were a lot of medical students from clinic 1 who spent 
-
-time in the autopsy room. These students would then proceed to work with women who were giving birth, 
-
-this is how the harmful bacteria from corpses would affect the women. They were infected with childbed fever, which was deadly.
+He decided to look further into this and came to the conclusion that there were a lot of medical students from clinic 1 who spent  time in the autopsy room. These students would then proceed to work with women who were giving birth,  this is how the harmful bacteria from corpses would affect the women. They were infected with childbed fever, which was deadly.
 
 I wanted to dive deeper into the data and create a few visualizations to draw conclusions. 
 I made use oy Python to plot graphs. 
