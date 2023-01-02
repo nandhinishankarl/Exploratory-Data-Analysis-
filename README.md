@@ -1,7 +1,9 @@
 # Exploratory-Data-Analysis-Projects
 Exploratory Data Analysis projects I have worked on 
 
-1. The Effect of Handwashing: A lot of people did not wash their hands prior to the 19th century. Poor hygiene due to lack of hand washing caused 
+1. The Effect of Handwashing: 
+
+A lot of people did not wash their hands prior to the 19th century. Poor hygiene due to lack of hand washing caused 
 a lot of deaths, even doctors didn't engage in handwashing before surgeries (gross). 
 
 This is why a lot of patients died. During the mid 1800s, Dr. Ignaz Semmelweis wanted to explore the reason behind these deaths. 
@@ -19,7 +21,9 @@ The results are included in the "The Effect of Handwashing.ipynb" notebook.
 
 This notebook contains datasets for monthly and yearly data that were collected from these 2 clinics.
 
-2. Uber Trips Analysis: This dataset contains Uber trip details that were collected from NYC in the month of September.
+2. Uber Trips Analysis: 
+
+This dataset contains Uber trip details that were collected from NYC in the month of September.
 
 I plotted graphs to examine the density of trips based on day, week and hours. 
 
